@@ -8,7 +8,10 @@ This data includes registered deaths up to 27 Mar, 2020. ONS says that there is,
 According to the figure below, it appears that London's overall deaths are rising above ususal, compared to the last 5 years. 
 ![Deaths in London, UK by Week, as of 2020-03-27](https://github.com/dcato98/covid19/blob/master/Deaths%20in%20London%2C%20UK%20by%20Week%2C%20as%20of%202020-03-27.png)
 
-It was not clear upon observation that deaths up to 27 Mar, 2020 were markedly higher than in the past 5 years in any other locations. Likewise for overall deaths in the UK and for deaths broken down by age.
+It was not clear upon observing similar plots up to 27 Mar, 2020 that there was a marked increase in deaths compared to the past 5 years for:
+ * other UK locations
+ * overall UK deaths
+ * deaths by age group
 
 I anticipate that this will change when ONS releases the next week of data (due 14 Apr, 2020).
 

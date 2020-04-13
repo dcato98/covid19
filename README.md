@@ -1,8 +1,6 @@
-# Projects:
-
 ## Examining UK Deaths by Week
 
-Data is from UK's [Office of National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales).
+The data used in the notebook is from UK's [Office of National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales).
 
 ### Summary:
 This data includes registered deaths up to 27 Mar, 2020. ONS says that there is, on average, a 5 day lag between the date of actual death and the date a death is registered.

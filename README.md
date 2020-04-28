@@ -3,16 +3,14 @@
 The data used in the notebook is from UK's [Office of National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales).
 
 ### Summary:
-This data includes registered deaths up to 27 Mar, 2020. ONS says that there is, on average, a 5 day lag between the date of actual death and the date a death is registered.
+This data includes registered deaths up to 17 April, 2020. According to the ONS, there is a 5 day lag between the date of actual death and the date a death is registered, on average.
 
-According to the figure below, it appears that London's overall deaths are rising above ususal, compared to the last 5 years. 
-![Deaths in London, UK by Week, as of 2020-03-27](https://github.com/dcato98/covid19/blob/master/Deaths%20in%20London%2C%20UK%20by%20Week%2C%20as%20of%202020-03-27.png)
+From the figure below, we can see that the overall number of deaths in London is > 3x the usual rate, as compared to the last 5 years.
+![Deaths in London, UK by Week, as of 2020-04-28](https://github.com/dcato98/covid19/blob/master/Deaths%20in%20London%2C%20UK%20by%20Week%2C%20as%20of%202020-04-28.png)
 
-It was not clear upon observing similar plots up to 27 Mar, 2020 that there was a marked increase in deaths compared to the past 5 years for:
- * other UK locations
- * overall UK deaths
- * deaths by age group
+Here is the same plot for all of England and Wales:
+![Deaths in UK by Week, as of 2020-04-28](https://github.com/dcato98/covid19/blob/master/Deaths%20in%20UK%20by%20Week%2C%20as%20of%202020-04-28.png)
 
-I anticipate that this will change when ONS releases the next week of data (due 14 Apr, 2020).
+Additionally, there is a marked increase in deaths compared to the past 5 years for all UK locations and all age groups except ("Under 1" and "1-14"). This can be seen in the plots in the notebook, along with further analysis.
 
 View the [notebook](https://github.com/dcato98/covid19/blob/master/Examining%20UK%20Deaths%20by%20Week.ipynb) for details. The plots are at the end.
